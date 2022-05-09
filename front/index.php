@@ -75,7 +75,6 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="index.php?page=blog">Blog</a></li>
                                 <li><a class="dropdown-item" href="index.php?page=about">About</a></li>
-                                <li><a class="dropdown-item" href="index.php?page=contact">Contact</a></li>
                             </ul>
                         </li>
                     </ul>
